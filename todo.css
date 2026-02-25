@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background: #f2f2f2;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px;
+}
+
+li {
+  list-style: none;
+  background: white;
+  margin: 10px auto;
+  padding: 10px;
+  width: 250px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
